@@ -1,16 +1,14 @@
-### Hi there 👋
+### Namaste 🙏🏻
+    (let's be safe  (ง •_•)ง  )
 
-<!--
-**vashish1/vashish1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Yashi Gupta. A person who believes learning never ends. So, Here I am wishing to learn something new everyday, 
+I am a Open source contributor and an aspiring DevOps Engineer.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p float="left">
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://images.app.goo.gl/K6hLhtap3WWj1mjs5"  height="90" />
+  </a>
+  
+ </p>
