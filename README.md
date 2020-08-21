@@ -1,11 +1,10 @@
 ### Namaste 🙏🏻
-    (let's be safe  (ง •_•)ง  )
 
 I am Yashi Gupta. A person who believes learning never ends. So, Here I am wishing to learn something new everyday, 
 I am a Open source contributor and an aspiring DevOps Engineer.
 
 
-### Languages
+###  Languages
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
@@ -19,7 +18,7 @@ I am a Open source contributor and an aspiring DevOps Engineer.
   </a>
  </p>
 
-### Deployment Tools used
+###  Deployment Tools used
 
 <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
@@ -30,7 +29,7 @@ I am a Open source contributor and an aspiring DevOps Engineer.
   </a>
  </p>
  
- ### Database 
+ ###  Database 
  
  <p float="left">
   <a href="https://aws.amazon.com/" target="_blank" >
@@ -39,7 +38,7 @@ I am a Open source contributor and an aspiring DevOps Engineer.
   
  </p>
 
- ### Tools
+ ###  Tools
  
  <p float="left">
   <a href="https://www.docker.com/" target="_blank" >
@@ -53,6 +52,10 @@ I am a Open source contributor and an aspiring DevOps Engineer.
   </a>
  </p>
 
+
+
 - 🤝🏻 Connect with me on [LinkedIn](https://www.linkedin.com/in/yashi-gupta-b82987173/)
+
+
 
 Thankyou ❤❤
